@@ -79,9 +79,3 @@ int main() {
         }
     }
 }
-
-/*
-    g++ -c network.cpp -IC:\Users\User\Desktop\RzeczyMateuszka\SFML-2.5.1\include
-
-    g++ network.o -o network -LC:\Users\User\Desktop\RzeczyMateuszka\SFML-2.5.1\lib  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network
-*/
